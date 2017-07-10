@@ -1,0 +1,73 @@
+img {
+    border-radius: 5px;
+}
+
+figcaption {
+    text-align: center
+}
+
+footer {
+    height: 20px;
+}
+
+#logo {
+    height: 40px;
+    width: 40px;
+    border-radius: 999px;
+    margin: 5px 15px;
+    float: left;
+}
+
+#main-image {
+    display: block;
+    margin: 0px auto;
+    max-width: 100%;
+}
+
+#main-image-container {
+    border-bottom: solid 1px #1e81bf;
+}
+
+.navbar-default {
+    background-color: transparent;
+    border-radius: 0px;
+    border: none;
+    border-bottom: solid 1px #1e81bf;
+}
+
+.work {
+    opacity: 0;
+}
+
+.work-title {
+    text-align: center;
+}
+
+.work-link {
+    color: inherit;
+}
+
+.work-link:hover,
+.work-link:active,
+.work-link:focus {
+    text-decoration: none;
+    color: #1e81bf;
+}
+
+.work-image {
+    display: block;
+    margin: 0px auto;
+    max-width: 100%;
+    box-shadow: 1px 1px 5px 1px #ddd;
+}
+
+.work-description {
+    max-width: 320px;
+    margin: 10px auto;
+}
+
+@media screen and (min-width: 992px) {
+    h2 {
+        height: 66px;
+    }
+}
