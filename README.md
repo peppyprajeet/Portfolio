@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+## Portfolio WebPage
 
-You can use the [editor on GitHub](https://github.com/peppyprajeet/Portfolio/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This project fulfills the requirement for the Portfolio project, which is a part of Udacity's Full Stack Web Development nano-degree.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The goal of the project is to develop a responsive website that will display images, descriptions and links to each of the portfolio projects completed during the duration of the Full Stack Web Development nano-degree
 
-### Markdown
+### Technologies Used
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[jQuery](https://jquery.com/)
+[Bootstrap](http://getbootstrap.com/)
+[HTML5](https://www.w3schools.com/html/html5_intro.asp)
+[JavaScript](https://www.w3schools.com/js/)
+[CSS3](https://www.w3schools.com/css/css3_intro.asp)
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+### Viewing the Project
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/peppyprajeet/Portfolio/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+The project is currently hosted using [Github Pages](https://pages.github.com/) and can be viewed [here](https://peppyprajeet.github.io/Portfolio/)
